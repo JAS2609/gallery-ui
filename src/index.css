@@ -1,0 +1,19 @@
+
+@import "tailwindcss";
+.hover-gradient {
+  background: #101012;               
+  background-size: 200% 100%;         
+  background-position: left center;   
+  transition: background-position 0.5s ease,
+}
+
+.hover-gradient:hover {
+  background: linear-gradient(to right, #191a1d, #101012);
+  background-position: right center; 
+}
+
+
+
+
+
+ 
