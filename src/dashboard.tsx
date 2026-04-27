@@ -42,7 +42,7 @@ export default function Dashboard() {
   };
 
   const tabContent = {
-    about: `Hello! I'm Jas, a full-Stack developer with hands-on experience building real-world SaaS apps, community platforms, and blogging systems using modern frameworks and BaaS tools. Skilled in React, Next.js, Tailwind CSS, Appwrite, Clerk, Prisma, Cloudinary AI, and Context API, with strong emphasis on authentication, UI/UX, and scalable design`,
+    about: `Hello! I'm Jas!!!, a full-Stack developer with hands-on experience building real-world SaaS apps, community platforms, and blogging systems using modern frameworks and BaaS tools. Skilled in React, Next.js, Tailwind CSS, Appwrite, Clerk, Prisma, Cloudinary AI, and Context API, with strong emphasis on authentication, UI/UX, and scalable design`,
     experiences: ` With a solid
 foundation in software development, honed through my B.Tech in Electronics and Communication
 Engineering and hands-on experience with modern frameworks and BaaS tools, I am eager to contribute
